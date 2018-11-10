@@ -1,4 +1,5 @@
 {
+    "name": "skipton-io/base-application",
     "repositories": [
         {"type": "composer", "url": "https://repo.packagist.com/skipton-io/"},
         {"packagist.org": false}
